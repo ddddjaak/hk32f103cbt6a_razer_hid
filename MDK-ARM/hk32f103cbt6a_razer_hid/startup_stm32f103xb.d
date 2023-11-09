@@ -1,0 +1,1 @@
+hk32f103cbt6a_razer_hid\startup_stm32f103xb.o: startup_stm32f103xb.s
